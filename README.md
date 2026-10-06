@@ -1,1 +1,1 @@
-meu primeiro projeto com git
+cd meu projeto
